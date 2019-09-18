@@ -1,2 +1,1 @@
-# hi_chen
-print("世界美好")
+print("hell chen")
